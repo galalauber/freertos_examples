@@ -25,6 +25,7 @@ components/**/sdkconfig.old
 examples/**/sdkconfig
 examples/**/sdkconfig.old
 examples/**/build
+sdkconfig
 
 # Doc build artifacts
 docs/_build/
